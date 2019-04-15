@@ -14,5 +14,3 @@ def countdown_with_sleep(num)
   while int > 0 
   num -=
 end
-end
-end
